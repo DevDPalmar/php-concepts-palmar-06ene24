@@ -33,6 +33,12 @@
     <li>Tipos de datos</li>
     <ul>
     <li><a href="tipos-datos/ejercicio_1.php">ejercicio 1</a></li>
+    <li><a href="tipos-datos/ejercicio_2.php">ejercicio 2</a></li>
+    </ul>
+    <li>Strings</li>
+    <ul>
+    <li><a href="Strings/ejercicio_1.php">ejercicio 1</a></li>
+    <li><a href="Strings/ejercicio_2.php">ejercicio 2</a></li>
     </ul>
   </ol>
 </body>

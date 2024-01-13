@@ -30,19 +30,22 @@
   class Carro {
     public $color;
     public $modelo;
-    public function __constuct($color, $modelo) {
+    public function __construct($color, $modelo) {
       $this -> color = $color;
       $this -> modelo = $modelo;
     }
 
     public function mensaje() {
-      return "My car is a ". $this -> color . "" . $this -> modelo . "!";
+      return "My car is a " . $this -> color . " " . $this -> modelo . "!";
     }
   }
 
   $myCar = new Carro("rojo", "chevrolet");
   var_dump($myCar);
   
+  //variable que no tiene ningun valor o es nulo
+  $z = Null;
+  echo $z;
   ?>
 </body>
 </html>
